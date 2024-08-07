@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "759401652364",
+    "project_id": "shopjoy-demo-97595",
+    "storage_bucket": "shopjoy-demo-97595.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:759401652364:android:5ba80053a95d043f8e9ba9",
+        "android_client_info": {
+          "package_name": "com.example.shop_joy"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2ag0WnceEIwMWQxQu4K3D2Djp9-9AmCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
